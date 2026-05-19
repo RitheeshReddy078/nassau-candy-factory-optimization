@@ -1,0 +1,301 @@
+Product,Factory,Region,Distance (km),Predicted Lead Time
+Wonka Bar - Milk Chocolate,Lot's O' Nuts,Atlantic,3273,1303.4
+Wonka Bar - Milk Chocolate,Lot's O' Nuts,Gulf,2116,1302.9
+Wonka Bar - Milk Chocolate,Lot's O' Nuts,Interior,1891,1302.5
+Wonka Bar - Milk Chocolate,Lot's O' Nuts,Pacific,591,1302.0
+Wonka Bar - Milk Chocolate,Wicked Choccy's,Atlantic,719,1303.4
+Wonka Bar - Milk Chocolate,Wicked Choccy's,Gulf,919,1302.9
+Wonka Bar - Milk Chocolate,Wicked Choccy's,Interior,1452,1302.5
+Wonka Bar - Milk Chocolate,Wicked Choccy's,Pacific,3429,1302.0
+Wonka Bar - Milk Chocolate,Sugar Shack,Atlantic,2054,1303.4
+Wonka Bar - Milk Chocolate,Sugar Shack,Gulf,2191,1302.9
+Wonka Bar - Milk Chocolate,Sugar Shack,Interior,831,1302.5
+Wonka Bar - Milk Chocolate,Sugar Shack,Pacific,2395,1302.0
+Wonka Bar - Milk Chocolate,Secret Factory,Atlantic,1346,1303.4
+Wonka Bar - Milk Chocolate,Secret Factory,Gulf,1385,1302.9
+Wonka Bar - Milk Chocolate,Secret Factory,Interior,210,1302.5
+Wonka Bar - Milk Chocolate,Secret Factory,Pacific,2538,1302.0
+Wonka Bar - Milk Chocolate,The Other Factory,Atlantic,1272,1303.4
+Wonka Bar - Milk Chocolate,The Other Factory,Gulf,680,1302.9
+Wonka Bar - Milk Chocolate,The Other Factory,Interior,706,1302.5
+Wonka Bar - Milk Chocolate,The Other Factory,Pacific,2561,1302.0
+Wonka Bar - Triple Dazzle Caramel,Lot's O' Nuts,Atlantic,3273,1307.5
+Wonka Bar - Triple Dazzle Caramel,Lot's O' Nuts,Gulf,2116,1307.0
+Wonka Bar - Triple Dazzle Caramel,Lot's O' Nuts,Interior,1891,1306.6
+Wonka Bar - Triple Dazzle Caramel,Lot's O' Nuts,Pacific,591,1306.1
+Wonka Bar - Triple Dazzle Caramel,Wicked Choccy's,Atlantic,719,1307.5
+Wonka Bar - Triple Dazzle Caramel,Wicked Choccy's,Gulf,919,1307.0
+Wonka Bar - Triple Dazzle Caramel,Wicked Choccy's,Interior,1452,1306.6
+Wonka Bar - Triple Dazzle Caramel,Wicked Choccy's,Pacific,3429,1306.1
+Wonka Bar - Triple Dazzle Caramel,Sugar Shack,Atlantic,2054,1307.5
+Wonka Bar - Triple Dazzle Caramel,Sugar Shack,Gulf,2191,1307.0
+Wonka Bar - Triple Dazzle Caramel,Sugar Shack,Interior,831,1306.6
+Wonka Bar - Triple Dazzle Caramel,Sugar Shack,Pacific,2395,1306.1
+Wonka Bar - Triple Dazzle Caramel,Secret Factory,Atlantic,1346,1307.5
+Wonka Bar - Triple Dazzle Caramel,Secret Factory,Gulf,1385,1307.0
+Wonka Bar - Triple Dazzle Caramel,Secret Factory,Interior,210,1306.6
+Wonka Bar - Triple Dazzle Caramel,Secret Factory,Pacific,2538,1306.1
+Wonka Bar - Triple Dazzle Caramel,The Other Factory,Atlantic,1272,1307.5
+Wonka Bar - Triple Dazzle Caramel,The Other Factory,Gulf,680,1307.0
+Wonka Bar - Triple Dazzle Caramel,The Other Factory,Interior,706,1306.6
+Wonka Bar - Triple Dazzle Caramel,The Other Factory,Pacific,2561,1306.1
+Wonka Bar - Nutty Crunch Surprise,Lot's O' Nuts,Atlantic,3273,1305.5
+Wonka Bar - Nutty Crunch Surprise,Lot's O' Nuts,Gulf,2116,1305.0
+Wonka Bar - Nutty Crunch Surprise,Lot's O' Nuts,Interior,1891,1304.6
+Wonka Bar - Nutty Crunch Surprise,Lot's O' Nuts,Pacific,591,1304.1
+Wonka Bar - Nutty Crunch Surprise,Wicked Choccy's,Atlantic,719,1305.5
+Wonka Bar - Nutty Crunch Surprise,Wicked Choccy's,Gulf,919,1305.0
+Wonka Bar - Nutty Crunch Surprise,Wicked Choccy's,Interior,1452,1304.6
+Wonka Bar - Nutty Crunch Surprise,Wicked Choccy's,Pacific,3429,1304.1
+Wonka Bar - Nutty Crunch Surprise,Sugar Shack,Atlantic,2054,1305.5
+Wonka Bar - Nutty Crunch Surprise,Sugar Shack,Gulf,2191,1305.0
+Wonka Bar - Nutty Crunch Surprise,Sugar Shack,Interior,831,1304.6
+Wonka Bar - Nutty Crunch Surprise,Sugar Shack,Pacific,2395,1304.1
+Wonka Bar - Nutty Crunch Surprise,Secret Factory,Atlantic,1346,1305.5
+Wonka Bar - Nutty Crunch Surprise,Secret Factory,Gulf,1385,1305.0
+Wonka Bar - Nutty Crunch Surprise,Secret Factory,Interior,210,1304.6
+Wonka Bar - Nutty Crunch Surprise,Secret Factory,Pacific,2538,1304.1
+Wonka Bar - Nutty Crunch Surprise,The Other Factory,Atlantic,1272,1305.5
+Wonka Bar - Nutty Crunch Surprise,The Other Factory,Gulf,680,1305.0
+Wonka Bar - Nutty Crunch Surprise,The Other Factory,Interior,706,1304.6
+Wonka Bar - Nutty Crunch Surprise,The Other Factory,Pacific,2561,1304.1
+Wonka Bar -Scrumdiddlyumptious,Lot's O' Nuts,Atlantic,3273,1309.1
+Wonka Bar -Scrumdiddlyumptious,Lot's O' Nuts,Gulf,2116,1308.6
+Wonka Bar -Scrumdiddlyumptious,Lot's O' Nuts,Interior,1891,1308.2
+Wonka Bar -Scrumdiddlyumptious,Lot's O' Nuts,Pacific,591,1307.7
+Wonka Bar -Scrumdiddlyumptious,Wicked Choccy's,Atlantic,719,1309.1
+Wonka Bar -Scrumdiddlyumptious,Wicked Choccy's,Gulf,919,1308.6
+Wonka Bar -Scrumdiddlyumptious,Wicked Choccy's,Interior,1452,1308.2
+Wonka Bar -Scrumdiddlyumptious,Wicked Choccy's,Pacific,3429,1307.7
+Wonka Bar -Scrumdiddlyumptious,Sugar Shack,Atlantic,2054,1309.1
+Wonka Bar -Scrumdiddlyumptious,Sugar Shack,Gulf,2191,1308.6
+Wonka Bar -Scrumdiddlyumptious,Sugar Shack,Interior,831,1308.2
+Wonka Bar -Scrumdiddlyumptious,Sugar Shack,Pacific,2395,1307.7
+Wonka Bar -Scrumdiddlyumptious,Secret Factory,Atlantic,1346,1309.1
+Wonka Bar -Scrumdiddlyumptious,Secret Factory,Gulf,1385,1308.6
+Wonka Bar -Scrumdiddlyumptious,Secret Factory,Interior,210,1308.2
+Wonka Bar -Scrumdiddlyumptious,Secret Factory,Pacific,2538,1307.7
+Wonka Bar -Scrumdiddlyumptious,The Other Factory,Atlantic,1272,1309.1
+Wonka Bar -Scrumdiddlyumptious,The Other Factory,Gulf,680,1308.6
+Wonka Bar -Scrumdiddlyumptious,The Other Factory,Interior,706,1308.2
+Wonka Bar -Scrumdiddlyumptious,The Other Factory,Pacific,2561,1307.7
+Wonka Bar - Fudge Mallows,Lot's O' Nuts,Atlantic,3273,1301.9
+Wonka Bar - Fudge Mallows,Lot's O' Nuts,Gulf,2116,1301.5
+Wonka Bar - Fudge Mallows,Lot's O' Nuts,Interior,1891,1301.0
+Wonka Bar - Fudge Mallows,Lot's O' Nuts,Pacific,591,1300.6
+Wonka Bar - Fudge Mallows,Wicked Choccy's,Atlantic,719,1301.9
+Wonka Bar - Fudge Mallows,Wicked Choccy's,Gulf,919,1301.5
+Wonka Bar - Fudge Mallows,Wicked Choccy's,Interior,1452,1301.0
+Wonka Bar - Fudge Mallows,Wicked Choccy's,Pacific,3429,1300.6
+Wonka Bar - Fudge Mallows,Sugar Shack,Atlantic,2054,1301.9
+Wonka Bar - Fudge Mallows,Sugar Shack,Gulf,2191,1301.5
+Wonka Bar - Fudge Mallows,Sugar Shack,Interior,831,1301.0
+Wonka Bar - Fudge Mallows,Sugar Shack,Pacific,2395,1300.6
+Wonka Bar - Fudge Mallows,Secret Factory,Atlantic,1346,1301.9
+Wonka Bar - Fudge Mallows,Secret Factory,Gulf,1385,1301.5
+Wonka Bar - Fudge Mallows,Secret Factory,Interior,210,1301.0
+Wonka Bar - Fudge Mallows,Secret Factory,Pacific,2538,1300.6
+Wonka Bar - Fudge Mallows,The Other Factory,Atlantic,1272,1301.9
+Wonka Bar - Fudge Mallows,The Other Factory,Gulf,680,1301.5
+Wonka Bar - Fudge Mallows,The Other Factory,Interior,706,1301.0
+Wonka Bar - Fudge Mallows,The Other Factory,Pacific,2561,1300.6
+Wonka Gum,Lot's O' Nuts,Atlantic,3273,1299.3
+Wonka Gum,Lot's O' Nuts,Gulf,2116,1298.8
+Wonka Gum,Lot's O' Nuts,Interior,1891,1298.3
+Wonka Gum,Lot's O' Nuts,Pacific,591,1297.9
+Wonka Gum,Wicked Choccy's,Atlantic,719,1299.3
+Wonka Gum,Wicked Choccy's,Gulf,919,1298.8
+Wonka Gum,Wicked Choccy's,Interior,1452,1298.3
+Wonka Gum,Wicked Choccy's,Pacific,3429,1297.9
+Wonka Gum,Sugar Shack,Atlantic,2054,1299.3
+Wonka Gum,Sugar Shack,Gulf,2191,1298.8
+Wonka Gum,Sugar Shack,Interior,831,1298.3
+Wonka Gum,Sugar Shack,Pacific,2395,1297.9
+Wonka Gum,Secret Factory,Atlantic,1346,1299.3
+Wonka Gum,Secret Factory,Gulf,1385,1298.8
+Wonka Gum,Secret Factory,Interior,210,1298.3
+Wonka Gum,Secret Factory,Pacific,2538,1297.9
+Wonka Gum,The Other Factory,Atlantic,1272,1299.3
+Wonka Gum,The Other Factory,Gulf,680,1298.8
+Wonka Gum,The Other Factory,Interior,706,1298.3
+Wonka Gum,The Other Factory,Pacific,2561,1297.9
+Kazookles,Lot's O' Nuts,Atlantic,3273,1285.0
+Kazookles,Lot's O' Nuts,Gulf,2116,1284.6
+Kazookles,Lot's O' Nuts,Interior,1891,1284.1
+Kazookles,Lot's O' Nuts,Pacific,591,1283.7
+Kazookles,Wicked Choccy's,Atlantic,719,1285.0
+Kazookles,Wicked Choccy's,Gulf,919,1284.6
+Kazookles,Wicked Choccy's,Interior,1452,1284.1
+Kazookles,Wicked Choccy's,Pacific,3429,1283.7
+Kazookles,Sugar Shack,Atlantic,2054,1285.0
+Kazookles,Sugar Shack,Gulf,2191,1284.6
+Kazookles,Sugar Shack,Interior,831,1284.1
+Kazookles,Sugar Shack,Pacific,2395,1283.7
+Kazookles,Secret Factory,Atlantic,1346,1285.0
+Kazookles,Secret Factory,Gulf,1385,1284.6
+Kazookles,Secret Factory,Interior,210,1284.1
+Kazookles,Secret Factory,Pacific,2538,1283.7
+Kazookles,The Other Factory,Atlantic,1272,1285.0
+Kazookles,The Other Factory,Gulf,680,1284.6
+Kazookles,The Other Factory,Interior,706,1284.1
+Kazookles,The Other Factory,Pacific,2561,1283.7
+Lickable Wallpaper,Lot's O' Nuts,Atlantic,3273,1297.1
+Lickable Wallpaper,Lot's O' Nuts,Gulf,2116,1296.7
+Lickable Wallpaper,Lot's O' Nuts,Interior,1891,1296.2
+Lickable Wallpaper,Lot's O' Nuts,Pacific,591,1295.7
+Lickable Wallpaper,Wicked Choccy's,Atlantic,719,1297.1
+Lickable Wallpaper,Wicked Choccy's,Gulf,919,1296.7
+Lickable Wallpaper,Wicked Choccy's,Interior,1452,1296.2
+Lickable Wallpaper,Wicked Choccy's,Pacific,3429,1295.7
+Lickable Wallpaper,Sugar Shack,Atlantic,2054,1297.1
+Lickable Wallpaper,Sugar Shack,Gulf,2191,1296.7
+Lickable Wallpaper,Sugar Shack,Interior,831,1296.2
+Lickable Wallpaper,Sugar Shack,Pacific,2395,1295.7
+Lickable Wallpaper,Secret Factory,Atlantic,1346,1297.1
+Lickable Wallpaper,Secret Factory,Gulf,1385,1296.7
+Lickable Wallpaper,Secret Factory,Interior,210,1296.2
+Lickable Wallpaper,Secret Factory,Pacific,2538,1295.7
+Lickable Wallpaper,The Other Factory,Atlantic,1272,1297.1
+Lickable Wallpaper,The Other Factory,Gulf,680,1296.7
+Lickable Wallpaper,The Other Factory,Interior,706,1296.2
+Lickable Wallpaper,The Other Factory,Pacific,2561,1295.7
+Fizzy Lifting Drinks,Lot's O' Nuts,Atlantic,3273,1269.1
+Fizzy Lifting Drinks,Lot's O' Nuts,Gulf,2116,1268.6
+Fizzy Lifting Drinks,Lot's O' Nuts,Interior,1891,1268.1
+Fizzy Lifting Drinks,Lot's O' Nuts,Pacific,591,1267.7
+Fizzy Lifting Drinks,Wicked Choccy's,Atlantic,719,1269.1
+Fizzy Lifting Drinks,Wicked Choccy's,Gulf,919,1268.6
+Fizzy Lifting Drinks,Wicked Choccy's,Interior,1452,1268.1
+Fizzy Lifting Drinks,Wicked Choccy's,Pacific,3429,1267.7
+Fizzy Lifting Drinks,Sugar Shack,Atlantic,2054,1269.1
+Fizzy Lifting Drinks,Sugar Shack,Gulf,2191,1268.6
+Fizzy Lifting Drinks,Sugar Shack,Interior,831,1268.1
+Fizzy Lifting Drinks,Sugar Shack,Pacific,2395,1267.7
+Fizzy Lifting Drinks,Secret Factory,Atlantic,1346,1269.1
+Fizzy Lifting Drinks,Secret Factory,Gulf,1385,1268.6
+Fizzy Lifting Drinks,Secret Factory,Interior,210,1268.1
+Fizzy Lifting Drinks,Secret Factory,Pacific,2538,1267.7
+Fizzy Lifting Drinks,The Other Factory,Atlantic,1272,1269.1
+Fizzy Lifting Drinks,The Other Factory,Gulf,680,1268.6
+Fizzy Lifting Drinks,The Other Factory,Interior,706,1268.1
+Fizzy Lifting Drinks,The Other Factory,Pacific,2561,1267.7
+Laffy Taffy,Lot's O' Nuts,Atlantic,3273,1278.3
+Laffy Taffy,Lot's O' Nuts,Gulf,2116,1277.9
+Laffy Taffy,Lot's O' Nuts,Interior,1891,1277.4
+Laffy Taffy,Lot's O' Nuts,Pacific,591,1277.0
+Laffy Taffy,Wicked Choccy's,Atlantic,719,1278.3
+Laffy Taffy,Wicked Choccy's,Gulf,919,1277.9
+Laffy Taffy,Wicked Choccy's,Interior,1452,1277.4
+Laffy Taffy,Wicked Choccy's,Pacific,3429,1277.0
+Laffy Taffy,Sugar Shack,Atlantic,2054,1278.3
+Laffy Taffy,Sugar Shack,Gulf,2191,1277.9
+Laffy Taffy,Sugar Shack,Interior,831,1277.4
+Laffy Taffy,Sugar Shack,Pacific,2395,1277.0
+Laffy Taffy,Secret Factory,Atlantic,1346,1278.3
+Laffy Taffy,Secret Factory,Gulf,1385,1277.9
+Laffy Taffy,Secret Factory,Interior,210,1277.4
+Laffy Taffy,Secret Factory,Pacific,2538,1277.0
+Laffy Taffy,The Other Factory,Atlantic,1272,1278.3
+Laffy Taffy,The Other Factory,Gulf,680,1277.9
+Laffy Taffy,The Other Factory,Interior,706,1277.4
+Laffy Taffy,The Other Factory,Pacific,2561,1277.0
+SweeTARTS,Lot's O' Nuts,Atlantic,3273,1278.4
+SweeTARTS,Lot's O' Nuts,Gulf,2116,1277.9
+SweeTARTS,Lot's O' Nuts,Interior,1891,1277.5
+SweeTARTS,Lot's O' Nuts,Pacific,591,1277.0
+SweeTARTS,Wicked Choccy's,Atlantic,719,1278.4
+SweeTARTS,Wicked Choccy's,Gulf,919,1277.9
+SweeTARTS,Wicked Choccy's,Interior,1452,1277.5
+SweeTARTS,Wicked Choccy's,Pacific,3429,1277.0
+SweeTARTS,Sugar Shack,Atlantic,2054,1278.4
+SweeTARTS,Sugar Shack,Gulf,2191,1277.9
+SweeTARTS,Sugar Shack,Interior,831,1277.5
+SweeTARTS,Sugar Shack,Pacific,2395,1277.0
+SweeTARTS,Secret Factory,Atlantic,1346,1278.4
+SweeTARTS,Secret Factory,Gulf,1385,1277.9
+SweeTARTS,Secret Factory,Interior,210,1277.5
+SweeTARTS,Secret Factory,Pacific,2538,1277.0
+SweeTARTS,The Other Factory,Atlantic,1272,1278.4
+SweeTARTS,The Other Factory,Gulf,680,1277.9
+SweeTARTS,The Other Factory,Interior,706,1277.5
+SweeTARTS,The Other Factory,Pacific,2561,1277.0
+Nerds,Lot's O' Nuts,Atlantic,3273,1282.7
+Nerds,Lot's O' Nuts,Gulf,2116,1282.2
+Nerds,Lot's O' Nuts,Interior,1891,1281.8
+Nerds,Lot's O' Nuts,Pacific,591,1281.3
+Nerds,Wicked Choccy's,Atlantic,719,1282.7
+Nerds,Wicked Choccy's,Gulf,919,1282.2
+Nerds,Wicked Choccy's,Interior,1452,1281.8
+Nerds,Wicked Choccy's,Pacific,3429,1281.3
+Nerds,Sugar Shack,Atlantic,2054,1282.7
+Nerds,Sugar Shack,Gulf,2191,1282.2
+Nerds,Sugar Shack,Interior,831,1281.8
+Nerds,Sugar Shack,Pacific,2395,1281.3
+Nerds,Secret Factory,Atlantic,1346,1282.7
+Nerds,Secret Factory,Gulf,1385,1282.2
+Nerds,Secret Factory,Interior,210,1281.8
+Nerds,Secret Factory,Pacific,2538,1281.3
+Nerds,The Other Factory,Atlantic,1272,1282.7
+Nerds,The Other Factory,Gulf,680,1282.2
+Nerds,The Other Factory,Interior,706,1281.8
+Nerds,The Other Factory,Pacific,2561,1281.3
+Hair Toffee,Lot's O' Nuts,Atlantic,3273,1269.2
+Hair Toffee,Lot's O' Nuts,Gulf,2116,1268.8
+Hair Toffee,Lot's O' Nuts,Interior,1891,1268.3
+Hair Toffee,Lot's O' Nuts,Pacific,591,1267.9
+Hair Toffee,Wicked Choccy's,Atlantic,719,1269.2
+Hair Toffee,Wicked Choccy's,Gulf,919,1268.8
+Hair Toffee,Wicked Choccy's,Interior,1452,1268.3
+Hair Toffee,Wicked Choccy's,Pacific,3429,1267.9
+Hair Toffee,Sugar Shack,Atlantic,2054,1269.2
+Hair Toffee,Sugar Shack,Gulf,2191,1268.8
+Hair Toffee,Sugar Shack,Interior,831,1268.3
+Hair Toffee,Sugar Shack,Pacific,2395,1267.9
+Hair Toffee,Secret Factory,Atlantic,1346,1269.2
+Hair Toffee,Secret Factory,Gulf,1385,1268.8
+Hair Toffee,Secret Factory,Interior,210,1268.3
+Hair Toffee,Secret Factory,Pacific,2538,1267.9
+Hair Toffee,The Other Factory,Atlantic,1272,1269.2
+Hair Toffee,The Other Factory,Gulf,680,1268.8
+Hair Toffee,The Other Factory,Interior,706,1268.3
+Hair Toffee,The Other Factory,Pacific,2561,1267.9
+Everlasting Gobstopper,Lot's O' Nuts,Atlantic,3273,1265.0
+Everlasting Gobstopper,Lot's O' Nuts,Gulf,2116,1264.6
+Everlasting Gobstopper,Lot's O' Nuts,Interior,1891,1264.1
+Everlasting Gobstopper,Lot's O' Nuts,Pacific,591,1263.7
+Everlasting Gobstopper,Wicked Choccy's,Atlantic,719,1265.0
+Everlasting Gobstopper,Wicked Choccy's,Gulf,919,1264.6
+Everlasting Gobstopper,Wicked Choccy's,Interior,1452,1264.1
+Everlasting Gobstopper,Wicked Choccy's,Pacific,3429,1263.7
+Everlasting Gobstopper,Sugar Shack,Atlantic,2054,1265.0
+Everlasting Gobstopper,Sugar Shack,Gulf,2191,1264.6
+Everlasting Gobstopper,Sugar Shack,Interior,831,1264.1
+Everlasting Gobstopper,Sugar Shack,Pacific,2395,1263.7
+Everlasting Gobstopper,Secret Factory,Atlantic,1346,1265.0
+Everlasting Gobstopper,Secret Factory,Gulf,1385,1264.6
+Everlasting Gobstopper,Secret Factory,Interior,210,1264.1
+Everlasting Gobstopper,Secret Factory,Pacific,2538,1263.7
+Everlasting Gobstopper,The Other Factory,Atlantic,1272,1265.0
+Everlasting Gobstopper,The Other Factory,Gulf,680,1264.6
+Everlasting Gobstopper,The Other Factory,Interior,706,1264.1
+Everlasting Gobstopper,The Other Factory,Pacific,2561,1263.7
+Fun Dip,Lot's O' Nuts,Atlantic,3273,1273.3
+Fun Dip,Lot's O' Nuts,Gulf,2116,1272.8
+Fun Dip,Lot's O' Nuts,Interior,1891,1272.4
+Fun Dip,Lot's O' Nuts,Pacific,591,1271.9
+Fun Dip,Wicked Choccy's,Atlantic,719,1273.3
+Fun Dip,Wicked Choccy's,Gulf,919,1272.8
+Fun Dip,Wicked Choccy's,Interior,1452,1272.4
+Fun Dip,Wicked Choccy's,Pacific,3429,1271.9
+Fun Dip,Sugar Shack,Atlantic,2054,1273.3
+Fun Dip,Sugar Shack,Gulf,2191,1272.8
+Fun Dip,Sugar Shack,Interior,831,1272.4
+Fun Dip,Sugar Shack,Pacific,2395,1271.9
+Fun Dip,Secret Factory,Atlantic,1346,1273.3
+Fun Dip,Secret Factory,Gulf,1385,1272.8
+Fun Dip,Secret Factory,Interior,210,1272.4
+Fun Dip,Secret Factory,Pacific,2538,1271.9
+Fun Dip,The Other Factory,Atlantic,1272,1273.3
+Fun Dip,The Other Factory,Gulf,680,1272.8
+Fun Dip,The Other Factory,Interior,706,1272.4
+Fun Dip,The Other Factory,Pacific,2561,1271.9
